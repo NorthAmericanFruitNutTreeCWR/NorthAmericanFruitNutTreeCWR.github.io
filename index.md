@@ -17,7 +17,7 @@ description:
 These gap analyses include metrics for both *ex situ* conservation (presence in botanic gardens and genebanks) and *in situ* conservation (presence in protected areas). We found that *88% of our target taxa are urgent priority for conservation*, 11% are high priority, and 1% are medium priority. No taxa are ranked as low priority for conservation. These results highlight the vital need to increase conservation efforts for these important taxa. This includes increasing their representation in botanic gardens and genebanks as well as enhancing their protection in natural habitats.
 
 ## Navigate to…
-###> <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
+> <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
   <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/summaryfig" target="_blank">Summary figure of all conservation gap analysis results</a><br>
   <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/references" target="_blank">References, resources, and additional data</a>
 
@@ -25,7 +25,6 @@ These gap analyses include metrics for both *ex situ* conservation (presence in 
 <br>
 
 <img src="https://NorthAmericanFruitNutTreeCWR.github.io/pages/Juglans_major-NearLeakeyTX-EmilyBeckmanBruns2022.jpg" alt="Juglans_major-NearLeakeyTX-EmilyBeckmanBruns2022"/>
-
 <img src="https://NorthAmericanFruitNutTreeCWR.github.io/pages/Prunus_serotina_var_eximia-NearCampWoodTX-EmilyBeckmanBruns2022.jpg" alt="Prunus_serotina_var_eximia-NearCampWoodTX-EmilyBeckmanBruns2022"/>
 
 <br>

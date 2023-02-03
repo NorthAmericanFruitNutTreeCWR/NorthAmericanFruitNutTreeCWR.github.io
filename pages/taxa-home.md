@@ -151,9 +151,11 @@ Genera are listed alphabetically in two groups: first the nuts, then the fruits
 <br>
 <br>
 <br>
+_ _ _
+<br>
 
-#### Navigate to…
-> <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
+### Navigate to…
+> <a href="https://NorthAmericanFruitNutTreeCWR.github.io" target="_blank">Landing page</a><br>
   <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/summaryfig" target="_blank">Summary figure of all conservation gap analysis results</a><br>
   <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/references" target="_blank">References, resources, and additional data</a>
 
