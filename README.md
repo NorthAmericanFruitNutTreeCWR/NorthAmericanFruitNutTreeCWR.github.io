@@ -1,2 +1,1 @@
-# NorthAmericanFruitNutTreeCWR-NorthAmericanFruitNutTreeCWR.github.io
-Toward the collaborative conservation of CWR!
+You can find results from the conservation gap analysis at https://NorthAmericanFruitNutTreeCWR.github.io/
