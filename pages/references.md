@@ -3,7 +3,7 @@ title: North American Fruit & Nut Tree Crop Wild Relatives Working Group
 description:  
 ---
 
-### Resources, references & data associated with our <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank">conservation gap analysis</a>
+## Resources, references & data associated with our <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank">conservation gap analysis</a>
 
 <br>
 
@@ -97,10 +97,12 @@ Please note the large file size for these raw data downloads. You can also downl
 <br>
 <br>
 
-#### Navigate to…
-> <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
+---
+
+### Navigate to…
+> <a href="https://NorthAmericanFruitNutTreeCWR.github.io" target="_blank">Landing page</a><br>
+  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
   <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/summaryfig" target="_blank">Summary figure of all conservation gap analysis results</a><br>
-  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/references" target="_blank">References, resources, and additional data</a>
 
 <br>
 

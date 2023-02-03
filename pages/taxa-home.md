@@ -12,7 +12,7 @@ description:
   gtag('config', 'G-HC36QREGFE');
 </script>
 
-# Taxon-level summaries of our conservation gap analysis of 95 taxa in ten genera
+## Taxon-level summaries of our conservation gap analysis of 95 taxa in ten genera
 
 Use the links below to open each interactive taxon-level report
 
@@ -154,8 +154,6 @@ Genera are listed alphabetically in two groups: first the nuts, then the fruits
 <br>
 
 ---
-
-<br>
 
 ### Navigate to…
 > <a href="https://NorthAmericanFruitNutTreeCWR.github.io" target="_blank">Landing page</a><br>
