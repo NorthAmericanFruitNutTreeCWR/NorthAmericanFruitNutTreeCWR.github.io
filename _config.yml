@@ -1,0 +1,8 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: North American Fruit & Nut Tree Crop Wild Relatives Working Group
+description: 
+analytics:
+  provider: "google-gtag"
+  google:
+    measurement_id: "G-HC36QREGFE"
+    anonymize_ip: false
