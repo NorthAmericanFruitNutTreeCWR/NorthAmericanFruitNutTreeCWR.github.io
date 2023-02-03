@@ -3,7 +3,7 @@ title: North American Fruit & Nut Tree Crop Wild Relatives Working Group
 description:  
 ---
 
-## Resources, references & data associated with our <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank">conservation gap analysis</a>
+## Resources, references & data associated with our conservation gap analysis
 
 <br>
 
