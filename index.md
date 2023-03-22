@@ -14,7 +14,7 @@ description:
 
 ## Welcome! Here we provide conservation gap analyses for a subset of native North American fruit and nut tree taxa that are traditional foods and/or wild relatives of important agricultural crops, also known as *crop wild relatives*. 
 
-These gap analyses include metrics for both *ex situ* conservation (presence in botanic gardens and genebanks) and *in situ* conservation (presence in protected areas). We found that *88% of our target taxa are urgent priority for conservation*, 11% are high priority, and 1% are medium priority. No taxa are ranked as low priority for conservation. These results highlight the vital need to increase conservation efforts for these important taxa. This includes increasing their representation in botanic gardens and genebanks as well as enhancing their protection in natural habitats.
+These gap analyses include metrics for both *ex situ* conservation (presence in botanic gardens and genebanks) and *in situ* conservation (presence in protected areas). Of the 95 taxa we analyzed, *46% are urgent priority for conservation*, 53% are high priority, and 1% are low priority. These results highlight the vital need to increase conservation efforts for these important taxa. This includes increasing their representation in botanic gardens and genebanks as well as enhancing their protection in natural habitats.
 
 <br>
 
