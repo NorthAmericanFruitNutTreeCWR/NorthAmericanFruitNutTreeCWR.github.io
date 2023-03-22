@@ -50,14 +50,14 @@ A star symbol (★) after the taxon's name signals there were not enough occurre
 ---
 
 ### Navigate to…
-> <a href="https://NorthAmericanFruitNutTreeCWR.github.io" target="_blank">Landing page</a><br>
-  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home" target="_blank">Taxon-level conservation summaries</a><br>
-  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/references" target="_blank">References, resources, and additional data</a>
+> <a href="https://NorthAmericanFruitNutTreeCWR.github.io">Landing page</a><br>
+  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/taxa-home">Taxon-level conservation summaries</a><br>
+  <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/references">References, resources, and additional data</a>
 
 <br>
 
 This work was led by Emily Beckman Bruns, Colin Khoury, Nan McCarry, Abby Meyer, Ray Mims, and Emily Warschefsky, and funded by the United States Botanic Garden. Emily Beckman Bruns was also supported by NSF ABI grant #1759759. Additional thanks to San Diego Botanic Garden, Botanic Gardens Conservation International - US, The Morton Arboretum, and Missouri Botanical Garden for providing organizational support. 
 
-February 2023
+March 2023
 
 <img src="https://NorthAmericanFruitNutTreeCWR.github.io/pages/partner-logos-composite.png" alt="Partner Logos"/>
