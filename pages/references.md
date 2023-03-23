@@ -85,7 +85,7 @@ BGCI. 2022. PlantSearch. Botanic Gardens Conservation International. Richmond, U
 
 # OCCURRENCE DATA USED IN OUR CONSERVATION GAP ANALYSIS
 
-Please note the large file size for these raw data downloads. You can also download data for each target taxon individually via the <a href="https://northamericanfruitnuttreecwr.github.io" target="_blank">taxon-specific reports</a>.
+Please note the large file size for these raw data downloads. You can also download data for each target taxon individually via the <a href="https://northamericanfruitnuttreecwr.github.io/pages/taxa-home" target="_blank">taxon-specific reports</a>.
 
 <a href="https://drive.google.com/file/d/1zB3ElICgQwlrfyFds7Q7QJHtaXikk2I3/view?usp=share_link" target="_blank">Download raw occurrence data for all target taxa [463 MB]</a><br>
 >*Recommended citation:* Bruns, E.B., Khoury, C.K., McCarry, N., Meyer, A., Mims, R., Warschefsky E., and the North American Fruit and Nut Tree Crop Wild Relatives Working Group. (2023). Distributions and conservation status of North American fruit and nut tree crop wild relatives. Raw occurrence data for all target taxa. Accessed [DAY MONTH YEAR] from https://northamericanfruitnuttreecwr.github.io/docs/references.
