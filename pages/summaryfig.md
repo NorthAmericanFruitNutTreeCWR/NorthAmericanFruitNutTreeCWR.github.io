@@ -8,7 +8,7 @@ description:
 Target fruit genera: *Asimina, Diospyros, Malus, Persea, Prunus*<br>
 Target nut genera: *Carya, Castanea, Corylus, Juglans, Pistacia*
 
-See below for definitions of terms used in the figure
+See below for definitions of terms used in the figure and a link to download the results
 
 <img src="https://NorthAmericanFruitNutTreeCWR.github.io/pages/All-GapAnalysis-Scores-Chart.png" alt="Summary gap analysis chart"/>
 
@@ -42,6 +42,10 @@ A star symbol (★) after the taxon's name signals there were not enough occurre
 
 **FCS combined** ~ Combined Final Conservation Score (FCS) is the average of the FCS ex situ and FCS in situ. The conservation status of the taxon is categorized with regard to the ex situ and in situ conservation scores, and the combined score, with urgent priority for further conservation action assigned when FCS < 25, high priority where 25 ≤ FCS < 50, medium priority where 50 ≤ FCS < 75, and low priority for taxa whose FCS ≥75.
 
+<br>
+
+### <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/SummaryResults-NAFruitNutCWR.csv" download>Click here to download a spreadsheet of the summary results for all 95 target taxa</a>
+    
 <br>
 <br>
 <br>
