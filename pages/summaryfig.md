@@ -14,6 +14,8 @@ See below for definitions of terms used in the figure and a link to download the
 
 <br>
 
+<a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/SummaryResults-NAFruitNutCWR.csv" download>       Click here to download a spreadsheet of the summary results</a>
+
 All scores are bound between 0 and 100, with 0 representing an extremely poor state of conservation, and 100 representing comprehensive protection.
 
 A star symbol (★) after the taxon's name signals there were not enough occurrence points to create a species distribution model (SDM). For these taxa, 50 km buffers around occurrence points were used instead of the SDM for all calculations requiring a potential distribution.
@@ -42,10 +44,6 @@ A star symbol (★) after the taxon's name signals there were not enough occurre
 
 **FCS combined** ~ Combined Final Conservation Score (FCS) is the average of the FCS ex situ and FCS in situ. The conservation status of the taxon is categorized with regard to the ex situ and in situ conservation scores, and the combined score, with urgent priority for further conservation action assigned when FCS < 25, high priority where 25 ≤ FCS < 50, medium priority where 50 ≤ FCS < 75, and low priority for taxa whose FCS ≥75.
 
-<br>
-
-### <a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/SummaryResults-NAFruitNutCWR.csv" download>Click here to download a spreadsheet of the summary results for all 95 target taxa</a>
-    
 <br>
 <br>
 <br>
