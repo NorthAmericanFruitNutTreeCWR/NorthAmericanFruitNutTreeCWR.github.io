@@ -14,7 +14,7 @@ See below for definitions of terms used in the figure and a link to download the
 
 <br>
 
-<a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/SummaryResults-NAFruitNutCWR.csv" download>       Click here to download a spreadsheet of the summary results</a>
+<a href="https://NorthAmericanFruitNutTreeCWR.github.io/pages/SummaryResults-NAFruitNutCWR.csv" download>Click here to download a spreadsheet of the summary results</a>
 
 All scores are bound between 0 and 100, with 0 representing an extremely poor state of conservation, and 100 representing comprehensive protection.
 
